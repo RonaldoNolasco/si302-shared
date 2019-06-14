@@ -9,7 +9,7 @@ public abstract class Conexion {
         Connection conex = null;
         try {
             Class.forName("org.postgresql.Driver");
-            conex = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres","postgres","123");
+            conex = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres","postgres","postgres");
             conex.setAutoCommit(false);
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
@@ -18,7 +18,7 @@ public abstract class Conexion {
         }
         return conex;
     }
-   /* public static void main(String[] args) {
+    /*public static void main(String[] args) {
         Conexion con = new Conexion();
         Connection c = con.getConnection();
         try {

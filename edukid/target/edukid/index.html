@@ -1,83 +1,100 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Pagina Principal</title>
-    <link type="text/css" rel="stylesheet" href="css/bulma.min.css">
+    <title>Login</title>
+    <link type="text/css" rel="stylesheet" href="css/bulma.min.css" >
+    <script>
+        function guardar()
+        {
+            // Guardamos el nombre y apellido en la base de datos del navegador
+            localStorage.setItem("nombre", document.getElementById("nombre").value);
+            localStorage.setItem("apellido", document.getElementById("apellido").value);
+
+            mostrarDatos();
+        }
+        function mostrarDatos()
+        {
+            // Leemos los valores de las variables del navegador y las ponemos
+            // en una variable para posteriormente mostrarlo en el navegador
+            var resultado="Nombre: "+localStorage.getItem("nombre");
+            resultado+="<br>Apellido: "+localStorage.getItem("apellido");
+
+            document.getElementById("resultado").innerHTML=resultado;
+        }
+    </script>
 </head>
 <body>
-<section class="section has-background-primary">
+<section>
     <div class="columns">
-        <div class="column is-1 has-text-centered">
-            <img src="logo.png" height="50" width="50">
+        <div class="column is-three-fifths">
+            <section class="section">
+                <div class="container">
+                    <h1 class="title">BIENVENIDO</h1>
+                </div>
+                <div>
+                    <h2 class="subtitle">PayFast</h2>
+                </div>
+            </section>
         </div>
-        <div class="column is-2 has-text-centered has-text-white has-text-weight-bold">
-            Historial de transacciones
+
+        <div class="column">
+            <section class="hero is-fullheight is-medium is-primary is-bold">
+                <div class="hero-body">
+                    <div class="container">
+                        <div class="columns is-centered">
+                            <article class="card is-rounded">
+                                <div class="card-content">
+                                    <h1 class="title">
+                                        <img src="https://uploads.disquscdn.com/images/c187ce7f2a18e1f04f1d6691f1e391221420595351c2e24dcb260116f12ce886.png" alt="logo" width="400">
+                                    </h1>
+
+                                    <p class="control has-icon">
+                                        <input class="input" type="email" name="nombre" id="nombre">
+                                        <i class="fa fa-envelope"></i>
+                                    </p>
+                                    <p class="control has-icon">
+                                        <input class="input" type="password" name="apellido" id="apellido">
+                                        <i class="fa fa-lock"></i>
+                                    </p>
+
+                                    <p class="control">
+                                        <label class="checkbox">
+                                            <input type="checkbox">
+                                            Recordar contraseña
+                                        </label>
+                                    </p>
+                                    <div>
+                                        Olvide contraseña
+                                    </div>
+
+                                    <p class="control">
+                                        <button class="button is-primary is-medium is-fullwidth" onclick="guardar()">
+                                            <i class="fa fa-user"></i>
+                                            Iniciar Sesión
+                                        </button>
+                                    </p>
+
+                                    <br>
+
+                                    <p class="control">
+                                        <button class="button is-primary is-medium is-fullwidth" >
+                                            <i class="fa fa-user"></i>
+                                            Registrarse
+                                        </button>
+                                    </p>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
-        <div class="column is-2 has-text-centered has-text-white has-text-weight-bold">
-            Enviar y solicitar
-        </div>
-        <div class="column is-2 has-text-centered has-text-white has-text-weight-bold">
-            Pago de Servicios
-        </div>
-        <div class="column is-2">
-        </div>
-        <div class="column is-1 has-text-centered has-text-white has-text-weight-bold">
-            Notificaciones
-        </div>
-        <div class="column is-1 has-text-centered has-text-white has-text-weight-bold">
-            Cuenta
-        </div>
-        <div class="column is-1 has-text-centered has-text-white has-text-weight-bold">
-            Cerrar sesión
-        </div>
+
     </div>
 </section>
-
-<section class="section">
-    <div class="columns">
-        <div class="column is-5">
-            <div class="column is is-size-3 has-text-centered">
-                Hola usuario!
-            </div>
-            <div class="column is is-size-5 has-text-centered">
-                ¿Desea agregar una tarjeta a su cuenta?
-            </div>
-            <div class="column is is-size-5 has-text-centered has-text-link text">
-                Haga click aqui
-            </div>
-        </div>
-        <div class="column is-2"></div>
-        <div class="column is-5 has-text-centered">
-            <div class="table is-bordered">
-                <div class="tbody">
-                    Recomendaciones
-                </div>
-                <div class="table">
-                    Agrege una foto de perfil para que sea fácilmente reconocido por sus contactos
-                </div>
-                <div class="table">
-                    Cree su link personalizado para que puedan transferirle pagos más facilmente
-                </div>
-                <div class="table">
-                    Evite contraseñas cortas, esto ayudará a la seguridad de su cuenta
-                </div>
-                <div class="table">
-                    No se olvide de leer sus notificaciones, esto nos ayuda a estar comunicado con usted :'(
-                </div>
-                <div class="table">
-                    Ante cualquier problema no se olvide de enviar un mensaje, en el apartado CONTÁCTANOS. Se le atenderá al instante.
-                </div>
-            </div>
-
-
-
-        </div>
-
-    </div>
-</section>
-
 </body>
 </html>

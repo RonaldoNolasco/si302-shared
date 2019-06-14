@@ -15,18 +15,15 @@ import java.io.IOException;
 
 @WebServlet(name = "UsuarioController",urlPatterns = {"/registro-usuario"})
 public class UsuarioController extends HttpServlet {
-
     public void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
       String codigo=req.getParameter("cod");
       String nombre=req.getParameter("nom");
       String credencial=req.getParameter("cred");
       String correo=req.getParameter("cor");
-        Usuario usur1= new Usuario(codigo,nombre,credencial,correo);
-
-        SingletonService.getUsuarioService().agregarUsuario(usur1);
-        resp.getWriter().write("Se guardo el usuario correctamente");
+      Usuario usur1= new Usuario(codigo,nombre,credencial,correo);
+      SingletonService.getUsuarioService().agregarUsuario(usur1);
+      resp.getWriter().write("Se guardo el usuario correctamente");
     }
-
     public static void main(String[] args) {
     }
 }
