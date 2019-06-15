@@ -1,24 +1,16 @@
 package pe.edu.uni.fiis.edukid.model;
 
 public class Usuario {
-    private String codigo;
     private String nombre;
-    private String credencial;
+    private String codigo;
     private String correo;
+    private String credencial;
 
-    public Usuario(String codigo, String nombre, String credencial, String correo) {
-        this.codigo = codigo;
+    public Usuario(String nombre, String codigo, String correo, String credencial) {
         this.nombre = nombre;
-        this.credencial = credencial;
-        this.correo = correo;
-    }
-
-    public String getCodigo() {
-        return codigo;
-    }
-
-    public void setCodigo(String codigo) {
         this.codigo = codigo;
+        this.correo = correo;
+        this.credencial = credencial;
     }
 
     public String getNombre() {
@@ -29,12 +21,12 @@ public class Usuario {
         this.nombre = nombre;
     }
 
-    public String getCredencial() {
-        return credencial;
+    public String getCodigo() {
+        return codigo;
     }
 
-    public void setCredencial(String credencial) {
-        this.credencial = credencial;
+    public void setCodigo(String codigo) {
+        this.codigo = codigo;
     }
 
     public String getCorreo() {
@@ -45,4 +37,11 @@ public class Usuario {
         this.correo = correo;
     }
 
+    public String getCredencial() {
+        return credencial;
+    }
+
+    public void setCredencial(String credencial) {
+        this.credencial = credencial;
+    }
 }
