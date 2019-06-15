@@ -6,27 +6,20 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54697e14-f5c5-473b-bdb8-fcaa77bc5375" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/sql/console.sql" afterDir="false" />
+    <list default="true" id="54697e14-f5c5-473b-bdb8-fcaa77bc5375" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/../S12/edukid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../S12/edukid/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S12/edukid/target/edukid.war" beforeDir="false" afterPath="$PROJECT_DIR$/../S12/edukid/target/edukid.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S12/edukid/target/edukid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../S12/edukid/target/edukid/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/733e15a8-3704-47a2-b85c-dccda2624deb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/733e15a8-3704-47a2-b85c-dccda2624deb.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/733e15a8-3704-47a2-b85c-dccda2624deb/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/733e15a8-3704-47a2-b85c-dccda2624deb/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/controller/UsuarioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/registro1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/registro1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/principal.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/registro1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/registroUsuario.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/registro2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/registroTarjeta.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/uni/fiis/payFast/controller/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/uni/fiis/payFast/controller/UsuarioController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/payFast.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/payFast.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/controller/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/controller/UsuarioController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/payFast/registro1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/payFast/registro1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/payFast/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/payFast/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/payFast/principal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/payFast/registro1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/payFast/registro2.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/controller/UsuarioController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+            <state relative-caret-position="404">
+              <caret line="30" column="69" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,10 +66,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/registroTarjeta.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1475">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/menu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/service/Conexion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,7 +99,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/service/usuario/UsuarioService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -96,22 +107,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/733e15a8-3704-47a2-b85c-dccda2624deb/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="325">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/sql/console.sql">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="63" column="55" selection-start-line="63" selection-start-column="55" selection-end-line="63" selection-end-column="55" />
+            <state relative-caret-position="394">
+              <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -129,31 +144,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/service/usuario/impl/UsuarioServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/registroUsuario.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/registro1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+            <state relative-caret-position="380">
+              <caret line="78" column="29" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -192,7 +186,6 @@
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/model/Login.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/733e15a8-3704-47a2-b85c-dccda2624deb/console_1.sql" />
         <option value="$PROJECT_DIR$/target/payFast/registro2.html" />
-        <option value="$PROJECT_DIR$/src/main/webapp/registro2.html" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/service/usuario/impl/UsuarioServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/service/Conexion.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/model/Usuario.java" />
@@ -200,8 +193,13 @@
         <option value="$PROJECT_DIR$/src/main/webapp/registro1.html" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/controller/UsuarioController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/registro2.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/principal.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/registroUsuario.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/menu.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/registroTarjeta.html" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/controller/UsuarioController.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/733e15a8-3704-47a2-b85c-dccda2624deb/console.sql" />
       </list>
     </option>
@@ -276,6 +274,22 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="payFast" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="payFast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payFast" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="payFast" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payFast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payFast" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -291,14 +305,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560478605619" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/sql" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../S12/edukid" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -343,7 +357,7 @@
     <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:8080/payFast_war_exploded/index.html">
       <method v="2" />
     </configuration>
-    <configuration name="registro1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/payFast_war/registro1.html">
+    <configuration name="registroUsuario.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/payFast_war/registroUsuario.html">
       <method v="2" />
     </configuration>
     <configuration name="payFast" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
@@ -420,12 +434,12 @@
     <list>
       <item itemvalue="Application.payFast" />
       <item itemvalue="JavaScript Debug.index.html" />
-      <item itemvalue="JavaScript Debug.registro1.html" />
+      <item itemvalue="JavaScript Debug.registroUsuario.html" />
       <item itemvalue="Tomcat Server.payFast" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.registro1.html" />
+        <item itemvalue="JavaScript Debug.registroUsuario.html" />
       </list>
     </recent_temporary>
   </component>
@@ -449,12 +463,12 @@
       <workItem from="1560452472317" duration="17814000" />
       <workItem from="1560538107138" duration="2894000" />
       <workItem from="1560578472655" duration="3810000" />
-      <workItem from="1560616279883" duration="2754000" />
+      <workItem from="1560616279883" duration="4751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61812000" />
+    <option name="totallyTimeSpent" value="63809000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -467,8 +481,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.18443497" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.18443497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -478,16 +493,16 @@
       <window_info id="Web" order="7" sideWeight="0.502439" side_tool="true" weight="0.3464448" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35861322" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35861322" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32871974" />
-      <window_info anchor="bottom" id="Database Console" order="7" visible="true" weight="0.1971831" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.39761648" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32871974" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32871974" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32827735" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32871974" />
       <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32827735" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -498,13 +513,17 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.104477614" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Downloads/edukid/src/main/java/pe/edu/uni/fiis/edukid/model/Usuario.java" />
@@ -564,13 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/registro2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2775">
-          <caret line="111" column="32" selection-start-line="111" selection-start-column="32" selection-end-line="111" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -635,56 +647,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/service/Conexion.java">
+    <entry file="file://$PROJECT_DIR$/src/main/sql/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/registro1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/controller/UsuarioController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="63" column="55" selection-start-line="63" selection-start-column="55" selection-end-line="63" selection-end-column="55" />
+        <state relative-caret-position="394">
+          <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/service/usuario/UsuarioService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/service/Conexion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/registroUsuario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="78" column="29" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/registroTarjeta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/payFast/controller/UsuarioController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="30" column="69" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/733e15a8-3704-47a2-b85c-dccda2624deb/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="325">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/sql/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -697,6 +727,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -744,7 +775,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

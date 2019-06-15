@@ -10,19 +10,17 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../payFast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/controller/UsuarioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/webapp/xd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/webapp/registro1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/webapp/registro1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/webapp/principal.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/webapp/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/webapp/registro1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/webapp/registroUsuario.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/webapp/registro2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/webapp/registroTarjeta.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../payFast/target/classes/pe/edu/uni/fiis/payFast/controller/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/classes/pe/edu/uni/fiis/payFast/controller/UsuarioController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/target/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/target/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/payFast.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/controller/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/controller/UsuarioController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/payFast/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/principal.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/registro1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/registro2.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,11 +66,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="525">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,16 +82,16 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/usuario/UsuarioDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="950">
+              <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/usuario/UsuarioDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="125">
               <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -116,8 +114,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="150">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,7 +126,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/SingletonUsuarioDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="100">
               <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -140,7 +138,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/JDBC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
+            <state relative-caret-position="350">
               <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -152,7 +150,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/SingletonService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="275">
               <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -173,8 +171,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="200">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -249,7 +247,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -260,108 +258,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="usuario" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="usuario" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -512,12 +411,13 @@
       <workItem from="1560036742194" duration="3044000" />
       <workItem from="1560571690484" duration="208000" />
       <workItem from="1560573654380" duration="4746000" />
-      <workItem from="1560617093463" duration="1466000" />
+      <workItem from="1560617093463" duration="1467000" />
+      <workItem from="1560620242634" duration="37000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28978000" />
+    <option name="totallyTimeSpent" value="29016000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -529,9 +429,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2563966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -651,37 +552,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/usuario/UsuarioDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
+        <state relative-caret-position="125">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -690,8 +571,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/SingletonUsuarioDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -700,7 +591,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/JDBC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
+        <state relative-caret-position="350">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -710,7 +601,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/SingletonService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="275">
           <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -725,10 +616,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/SingletonUsuarioDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="200">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -737,8 +628,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/usuario/UsuarioDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        <state relative-caret-position="950">
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
