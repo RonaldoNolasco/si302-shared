@@ -7,7 +7,6 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 public class UsuarioDaoImpl implements UsuarioDao {
-
     public Usuario agregarUsuario(Usuario a, Connection b) {
         try {
             StringBuffer sql = new StringBuffer();
@@ -30,8 +29,7 @@ public class UsuarioDaoImpl implements UsuarioDao {
         return a;
     }
 
-    public Usuario iniciarSesion(Usuario a, Connection b) {
-
+    /*public Usuario iniciarSesion(Usuario a, Connection b) {
         try {
             StringBuffer sql = new StringBuffer();
             sql.append("select count(*) from usuario(id_usuario,contra)")
@@ -45,6 +43,6 @@ public class UsuarioDaoImpl implements UsuarioDao {
             e.printStackTrace();
         }
         return null;
-    }
+    }*/
 
 }

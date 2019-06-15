@@ -7,33 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="377e5d65-18fa-49a2-bf62-e7026e164706" name="Default Changelist" comment="buena">
-      <change afterPath="$PROJECT_DIR$/../../payFast/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/SingletonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/SingletonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/impl/UsuarioServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/uni/fiis/edukid/controller/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/uni/fiis/edukid/controller/UsuarioController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/uni/fiis/edukid/service/SingletonService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/uni/fiis/edukid/service/SingletonService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/uni/fiis/edukid/service/usuario/impl/UsuarioServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edukid.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/edukid.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edukid/WEB-INF/classes/pe/edu/uni/fiis/edukid/controller/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/edukid/WEB-INF/classes/pe/edu/uni/fiis/edukid/controller/UsuarioController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edukid/WEB-INF/classes/pe/edu/uni/fiis/edukid/service/SingletonService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/edukid/WEB-INF/classes/pe/edu/uni/fiis/edukid/service/SingletonService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edukid/WEB-INF/classes/pe/edu/uni/fiis/edukid/service/usuario/impl/UsuarioServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/.idea/dataSources/733e15a8-3704-47a2-b85c-dccda2624deb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/.idea/dataSources/733e15a8-3704-47a2-b85c-dccda2624deb.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/.idea/dataSources/733e15a8-3704-47a2-b85c-dccda2624deb/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/.idea/dataSources/733e15a8-3704-47a2-b85c-dccda2624deb/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../payFast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/controller/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/model/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/service/Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/java/pe/edu/uni/fiis/payFast/service/Conexion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/webapp/xd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/src/main/webapp/registro1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/src/main/webapp/registro1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/target/classes/pe/edu/uni/fiis/payFast/controller/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/classes/pe/edu/uni/fiis/payFast/controller/UsuarioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/target/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/target/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/payFast.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/controller/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/controller/UsuarioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/payFast/WEB-INF/classes/pe/edu/uni/fiis/payFast/dao/usuario/UsuarioDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/payFast/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/registro1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../payFast/target/payFast/registro1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../payFast/target/payFast/registro1.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -79,11 +68,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="506">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,26 +83,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="16" column="81" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
+            <state relative-caret-position="200">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/usuario/UsuarioDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            <state relative-caret-position="250">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/SingletonUsuarioDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="35" selection-start-column="35" selection-end-column="35" />
+            <state relative-caret-position="150">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,10 +162,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/model/Usuario.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+            <state relative-caret-position="292">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -221,9 +213,9 @@
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioService.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/JDBC.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioServiceImpl.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39/console.sql" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -257,7 +249,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -269,6 +261,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -369,7 +362,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,7 +372,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560036713699" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../payFast" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -520,11 +512,12 @@
       <workItem from="1560036742194" duration="3044000" />
       <workItem from="1560571690484" duration="208000" />
       <workItem from="1560573654380" duration="4746000" />
+      <workItem from="1560617093463" duration="1466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27512000" />
+    <option name="totallyTimeSpent" value="28978000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -536,10 +529,44 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32275712" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31960997" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4979592" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5020408" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.19609967" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" visible="true" weight="0.2524377" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.118336886" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.26914662" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25382933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -561,7 +588,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Database Console" order="14" visible="true" weight="0.2549234" />
+      <window_info anchor="bottom" id="Database Console" order="14" visible="true" weight="0.2524377" />
       <window_info anchor="bottom" id="Application Servers" order="15" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -570,41 +597,6 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.26914662" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26836735" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.95090014" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4979592" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5020408" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Database Console" order="14" weight="0.44189852" />
-      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.3289689" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.272449" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout-to-restore>
@@ -652,51 +644,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/model/Usuario.java">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/SingletonService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="506">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="16" column="81" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/usuario/UsuarioDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="200">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -710,20 +678,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="292">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/SingletonUsuarioDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        <state relative-caret-position="175">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -740,10 +708,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/SingletonService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        <state relative-caret-position="300">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/model/Usuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/SingletonUsuarioDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/usuario/UsuarioDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
