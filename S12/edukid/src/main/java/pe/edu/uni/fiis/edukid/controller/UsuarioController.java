@@ -1,10 +1,8 @@
 package pe.edu.uni.fiis.edukid.controller;
 
-import pe.edu.uni.fiis.edukid.dao.SingletonUsuarioDao;
 import pe.edu.uni.fiis.edukid.model.Usuario;
 import pe.edu.uni.fiis.edukid.service.SingletonService;
-import pe.edu.uni.fiis.edukid.service.usuario.UsuarioService;
-import pe.edu.uni.fiis.edukid.service.usuario.impl.UsuarioServiceImpl;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;

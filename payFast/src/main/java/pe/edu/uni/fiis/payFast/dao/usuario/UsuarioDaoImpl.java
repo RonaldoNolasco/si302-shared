@@ -1,8 +1,6 @@
 package pe.edu.uni.fiis.payFast.dao.usuario;
 
-import pe.edu.uni.fiis.payFast.dao.usuario.UsuarioDao;
 import pe.edu.uni.fiis.payFast.model.Usuario;
-import pe.edu.uni.fiis.payFast.service.Conexion;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -11,24 +9,20 @@ import java.sql.SQLException;
 public class UsuarioDaoImpl implements UsuarioDao {
 
     public Usuario agregarUsuario(Usuario a, Connection b) {
-
         try {
             StringBuffer sql = new StringBuffer();
-            sql.append("insert into usuario (nombres,id_usuario,contra,sexo,region,provincia,distrito,correo,num_tarjeta,telefono)")
-                    .append("values (?,?,?,?,?,?,?,?,?,?)");
-
+            sql.append("insert into usuario (nombre,usuario,credencial,sexo,tarjeta,region,provincia,distrito,correo,telefono) values (?,?,?,?,?,?,?,?,?,?);");
             PreparedStatement sentencia = b.prepareStatement(sql.toString());
-            sentencia.setString(1,a.getNombres());
-            sentencia.setString(2,a.getIdUsuario());
-            sentencia.setString(3,a.getContra());
+            sentencia.setString(1,a.getNombre());
+            sentencia.setString(2,a.getUsuario());
+            sentencia.setString(3,a.getCredencial());
             sentencia.setString(4,a.getSexo());
-            sentencia.setString(5,a.getRegion());
-            sentencia.setString(6,a.getProvincia());
-            sentencia.setString(7,a.getDistrito());
-            sentencia.setString(8,a.getCorreo());
-            sentencia.setString(9,a.getNumTarjeta());
+            sentencia.setString(5,a.getTarjeta());
+            sentencia.setString(6,a.getRegion());
+            sentencia.setString(7,a.getProvincia());
+            sentencia.setString(8,a.getDistrito());
+            sentencia.setString(9,a.getCorreo());
             sentencia.setString(10,a.getTelefono());
-
             sentencia.execute();
         } catch (SQLException e) {
             e.printStackTrace();
@@ -44,8 +38,8 @@ public class UsuarioDaoImpl implements UsuarioDao {
             .append("where id_usuario = ? and contra = ?");
 
             PreparedStatement sentencia = b.prepareStatement(sql.toString());
-            sentencia.setString(1,a.getIdUsuario());
-            sentencia.setString(2,a.getContra());
+            sentencia.setString(1,a.getUsuario());
+            sentencia.setString(2,a.getCredencial());
             sentencia.execute();
         } catch (SQLException e) {
             e.printStackTrace();

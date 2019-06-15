@@ -13,27 +13,22 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet(name = "UsuarioController",urlPatterns = {"/registro-usuario"})
+@WebServlet(name = "UsuarioController",urlPatterns = {"/registro"})
 public class UsuarioController extends HttpServlet {
     public void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String nombre=req.getParameter("nombre");
-        String idUsuario=req.getParameter("id de usuario");
-        String contra=req.getParameter("contraseña");
+        String usuario=req.getParameter("usuario");
+        String credencial=req.getParameter("credencial");
         String sexo=req.getParameter("sexo");
+        String tarjeta=req.getParameter("tarjeta");
         String region=req.getParameter("region");
         String provincia=req.getParameter("provincia");
         String distrito=req.getParameter("distrito");
         String correo=req.getParameter("correo");
-        String numTarjeta=req.getParameter("numero de Tarjeta");
         String telefono=req.getParameter("telefono");
-        Usuario usur1= new Usuario(nombre,idUsuario,contra , sexo , region ,provincia,distrito,correo,numTarjeta,telefono);
-
+        Usuario usur1= new Usuario(nombre,usuario,credencial,sexo,tarjeta,region,provincia,distrito,correo,telefono);
         SingletonService.getUsuarioService().agregarUsuario(usur1);
         resp.setContentType("text/html");
-
-        RequestDispatcher rd=req.getRequestDispatcher("registro1.html");
-
         resp.getWriter().write("Se guardo el usuario correctamente");
-        rd.include(req,resp);
     }
 }
