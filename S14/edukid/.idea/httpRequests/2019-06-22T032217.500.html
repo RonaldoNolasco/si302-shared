@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head><title>Estado HTTP 500 – Internal Server Error</title>
+    <style type="text/css">h1 {
+        font-family: Tahoma, Arial, sans-serif;
+        color: white;
+        background-color: #525D76;
+        font-size: 22px;
+    }
+
+    h2 {
+        font-family: Tahoma, Arial, sans-serif;
+        color: white;
+        background-color: #525D76;
+        font-size: 16px;
+    }
+
+    h3 {
+        font-family: Tahoma, Arial, sans-serif;
+        color: white;
+        background-color: #525D76;
+        font-size: 14px;
+    }
+
+    body {
+        font-family: Tahoma, Arial, sans-serif;
+        color: black;
+        background-color: white;
+    }
+
+    b {
+        font-family: Tahoma, Arial, sans-serif;
+        color: white;
+        background-color: #525D76;
+    }
+
+    p {
+        font-family: Tahoma, Arial, sans-serif;
+        background: white;
+        color: black;
+        font-size: 12px;
+    }
+
+    a {
+        color: black;
+    }
+
+    a.name {
+        color: black;
+    }
+
+    .line {
+        height: 1px;
+        background-color: #525D76;
+        border: none;
+    }</style>
+</head>
+<body><h1>Estado HTTP 500 – Internal Server Error</h1>
+<hr class="line"/>
+<p><b>Tipo</b> Informe de Excepción</p>
+<p><b>mensaje</b> Cannot construct instance of `pe.edu.uni.fiis.edukid.model.Usuario` (no Creators, like default
+    construct, exist): cannot deserialize from Object value (no delegate- or property-based Creator)</p>
+<p><b>Descripción</b> El servidor encontró un error interno que hizo que no pudiera rellenar este requerimiento.</p>
+<p><b>excepción</b></p>
+<pre>com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Cannot construct instance of `pe.edu.uni.fiis.edukid.model.Usuario` (no Creators, like default construct, exist): cannot deserialize from Object value (no delegate- or property-based Creator)
+ at [Source: (String)&quot;{&quot;codigo&quot;:&quot;otro&quot;,&quot;nombre&quot;:&quot;ss&quot;,&quot;credencial&quot;:&quot;123&quot;,&quot;correo&quot;:&quot;micorreo&quot;}&quot;; line: 1, column: 2]
+	com.fasterxml.jackson.databind.exc.InvalidDefinitionException.from(InvalidDefinitionException.java:67)
+	com.fasterxml.jackson.databind.DeserializationContext.reportBadDefinition(DeserializationContext.java:1452)
+	com.fasterxml.jackson.databind.DeserializationContext.handleMissingInstantiator(DeserializationContext.java:1028)
+	com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1297)
+	com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326)
+	com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:159)
+	com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4013)
+	com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3004)
+	pe.edu.uni.fiis.edukid.controller.UsuarioController.doPost(UsuarioController.java:36)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+</pre>
+<p><b>nota</b> La traza completa de la causa de este error se encuentra en los archivos de registro del servidor.</p>
+<hr class="line"/>
+<h3>Apache Tomcat/9.0.19</h3></body>
+</html>

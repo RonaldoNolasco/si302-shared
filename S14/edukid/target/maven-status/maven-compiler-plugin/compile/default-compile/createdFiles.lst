@@ -1,0 +1,12 @@
+pe\edu\uni\fiis\edukid\service\SingletonService.class
+pe\edu\uni\fiis\edukid\controller\UsuarioFAgregarController.class
+pe\edu\uni\fiis\edukid\service\usuario\impl\UsuarioServiceImpl.class
+pe\edu\uni\fiis\edukid\dao\SingletonUsuarioDao.class
+pe\edu\uni\fiis\edukid\dao\usuario\UsuarioDaoImpl.class
+pe\edu\uni\fiis\edukid\controller\UsuarioFObtenerController.class
+pe\edu\uni\fiis\edukid\model\UsuarioF.class
+pe\edu\uni\fiis\edukid\service\usuario\UsuarioService.class
+pe\edu\uni\fiis\edukid\service\Conexion.class
+pe\edu\uni\fiis\edukid\model\Usuario.class
+pe\edu\uni\fiis\edukid\controller\UsuarioController.class
+pe\edu\uni\fiis\edukid\dao\usuario\UsuarioDao.class
