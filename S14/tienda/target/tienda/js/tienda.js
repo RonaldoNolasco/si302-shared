@@ -4,12 +4,14 @@ var app = new Vue({
         titulo: 'Registro de Usuario',
         susti: 'Nos vemos en el SuStI.',
         pagina: 1,
-        usuario : {
-            codigo: null,
-            nombre:null,
-            credencial:null,
-            correo:null
-        }
+        pedido : {
+            producto:{ idProducto:null, nombre:null, precioUnitario:null},
+            idPedido:null,
+            cantidadProductos:null,
+            igv:null,
+            montoTotal:null
+        },
+        listaPedido:null
     },
     methods:{
         limpiar : function () {
@@ -27,22 +29,31 @@ var app = new Vue({
         isPagina : function (pagina) {
             return (this.pagina == pagina);
         },
-        registrarUsuario:function(){
+        registrarPedido:function(){
 
-
-            fetch('registro-usuario', {
+            this.pedido={
+                producto:{ idProducto:1, nombre:'p', precioUnitario:10.50},
+                idPedido:1,
+                cantidadProductos:10,
+                igv:100.1,
+                montoTotal:1000.2
+            };
+            fetch('agregar-pedido', {
                 method: 'POST',
-                body: JSON.stringify(this.usuario),
+                body: JSON.stringify(this.pedido),
                 headers:{
                     'Content-Type': 'application/json'
                 }
             }).then(function(res){ return res.json(); })
             .then(function(data){
-                this.usuario = data;
+                this.listaPedido = data.pedidos;
             });
         }
     }
 });
+
+
+
 
 /*
 window.addEventListener('load',function(){
