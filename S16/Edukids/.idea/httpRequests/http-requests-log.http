@@ -1,0 +1,44 @@
+POST http://localhost:8080/Edukids/buscar-libro
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{ "coGenero":1 ,"titulo":"otro"}
+
+<> 2019-07-06T015554.200.json
+
+###
+
+POST http://localhost:8080/Edukids/buscar-libro
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{ "coGenero":1 ,"titulo":"otro"}
+
+<> 2019-07-06T015328.200.json
+
+###
+
+POST http://localhost:8080/Edukids/buscar-libro
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{ "coGenero":1 "titulo":"otro"}
+
+<> 2019-07-06T015232.500.html
+
+###
+
+POST http://localhost:8080/Edukids/buscar-libro
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{ "coGenero":1 "titulo":"otro"; }
+
+<> 2019-07-06T015214.500.html
+
+###
+

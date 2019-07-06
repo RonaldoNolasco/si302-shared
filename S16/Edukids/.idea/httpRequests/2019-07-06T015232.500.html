@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head><title>Estado HTTP 500 – Internal Server Error</title>
+    <style type="text/css">h1 {
+        font-family: Tahoma, Arial, sans-serif;
+        color: white;
+        background-color: #525D76;
+        font-size: 22px;
+    }
+
+    h2 {
+        font-family: Tahoma, Arial, sans-serif;
+        color: white;
+        background-color: #525D76;
+        font-size: 16px;
+    }
+
+    h3 {
+        font-family: Tahoma, Arial, sans-serif;
+        color: white;
+        background-color: #525D76;
+        font-size: 14px;
+    }
+
+    body {
+        font-family: Tahoma, Arial, sans-serif;
+        color: black;
+        background-color: white;
+    }
+
+    b {
+        font-family: Tahoma, Arial, sans-serif;
+        color: white;
+        background-color: #525D76;
+    }
+
+    p {
+        font-family: Tahoma, Arial, sans-serif;
+        background: white;
+        color: black;
+        font-size: 12px;
+    }
+
+    a {
+        color: black;
+    }
+
+    a.name {
+        color: black;
+    }
+
+    .line {
+        height: 1px;
+        background-color: #525D76;
+        border: none;
+    }</style>
+</head>
+<body><h1>Estado HTTP 500 – Internal Server Error</h1>
+<hr class="line"/>
+<p><b>Tipo</b> Informe de Excepción</p>
+<p><b>mensaje</b> Unexpected character (&#39;&quot;&#39; (code 34)): was expecting comma to separate Object entries</p>
+<p><b>Descripción</b> El servidor encontró un error interno que hizo que no pudiera rellenar este requerimiento.</p>
+<p><b>excepción</b></p>
+<pre>com.fasterxml.jackson.core.JsonParseException: Unexpected character (&#39;&quot;&#39; (code 34)): was expecting comma to separate Object entries
+ at [Source: (String)&quot;{ &quot;coGenero&quot;:1 &quot;titulo&quot;:&quot;otro&quot;}&quot;; line: 1, column: 17]
+	com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:1804)
+	com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:693)
+	com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:591)
+	com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipComma(ReaderBasedJsonParser.java:2279)
+	com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextFieldName(ReaderBasedJsonParser.java:902)
+	com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:295)
+	com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:151)
+	com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4013)
+	com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3004)
+	pe.edu.uni.fiis.edukids.controller.BusquedaLibroController.doPost(BusquedaLibroController.java:24)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+</pre>
+<p><b>nota</b> La traza completa de la causa de este error se encuentra en los archivos de registro del servidor.</p>
+<hr class="line"/>
+<h3>Apache Tomcat/9.0.21</h3></body>
+</html>

@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link type="text/css" rel="stylesheet" href="css/bulma.min.css" >
+    <link type="text/css" rel="stylesheet" href="css/edukids.css" >
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+</head>
+<body>
+<section class="section">
+    <div class="container">
+        <h1 class="title">Registro de Usuario </h1>
+        <form action="registro-usuariof" method="post">
+
+            <div class="field">
+                <div class="control">
+                    <input type="text" class="input is-primary" name="nom" placeholder="Ingrese nombre" v-model="usuariof.nombres">
+                </div>
+            </div>
+
+            <div class="field">
+                <div class="control">
+                    <input type="text" class="input is-primary" name="ape" placeholder="Apellidos" v-model="usuariof.apellidos">
+                </div>
+            </div>
+
+            <div class="field">
+                <div class="control">
+                    <input type="text" class="input is-primary" name="nac" placeholder="Fecha de nacimiento" v-model="usuariof.nacimiento">
+                </div>
+            </div>
+
+            <div class="field">
+                <div class="control">
+                    <input type="text" class="input is-primary" name="prof" placeholder="Profesión" v-model="usuariof.profesion">
+                </div>
+            </div>
+
+            <div class="field">
+                <div class="control">
+                    <label class="radio mr40">
+                        <input type="radio" name="gen" value="M" v-model="usuariof.genero">
+                        M
+                    </label>
+                    <label class="radio mr40">
+                        <input type="radio" name="gen" value="F" v-model="usuariof.genero">
+                        F
+                    </label>
+                </div>
+            </div>
+            <button id="limpiaBtn" type="button" v-on:click="limpiar">Limpiar</button>
+            <button type="button" class="button is-large is-danger" v-on:click="registrarUsuariof">Registrar</button>
+        </form>
+    </div>
+</section>
+<script src="js/vue.js" type="text/javascript"></script>
+<script src="js/edukids.ja.js" type="text/javascript"></script>
+
+</body>
+</html>

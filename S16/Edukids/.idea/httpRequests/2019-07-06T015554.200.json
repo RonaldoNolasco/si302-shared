@@ -1,0 +1,16 @@
+{
+  "libros": [
+    {
+      "isbn": 1,
+      "titulo": "matematica",
+      "autor": {
+        "coAutor": 1,
+        "nombre": null
+      },
+      "genero": {
+        "coGenero": 1,
+        "nombre": null
+      }
+    }
+  ]
+}

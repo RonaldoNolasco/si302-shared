@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="es" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link type="text/css" rel="stylesheet" href="css/bulma.min.css" >
+    <link type="text/css" rel="stylesheet" href="css/edukids.css" >
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+</head>
+<body>
+<section id="app" class="section">
+   <div class="container" v-show="isPagina(1)">
+        <h1 class="title">Busqueda de Libros</h1>
+        <form action="registro-usuariof" method="post">
+            <div class="field">
+                <div class="control">
+                    <select >
+                        <option value="1"> Literatura</option>
+                        <option value="2"> Matematica</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="field">
+                <div class="control">
+                    <input type="text" class="input is-primary auth" name="ape" placeholder="Titulo" >
+                </div>
+            </div>
+
+            <button type="submit" style="margin-left: 20px" class="button is-large is-danger" >Buscar</button>
+            <button type="button" style="margin-left: 20px" class="button is-large is-danger" v-on:click="mostrar">Ir a Lista</button>
+        </form>
+    </div>
+    <div>
+        <table>
+            <tr>
+                <td>ISBN</td>
+                <td>Titulo</td>
+                <td>Autor</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>multivariable</td>
+                <td>Apostol</td>
+            </tr>
+        </table>
+    </div>
+
+</section>
+<!--<section id="app" class="section">
+         <div class="container">
+             <h1 class="title">{{titulo}}</h1>
+             <form action="registro-usuario" method="post">
+
+                 <div class="field">
+                     <div class="control">
+                         <input id="nom" type="text" class="input is-primary auth" name="nom" placeholder="Ingrese nombre" v-model="usuario.nombre">
+                     </div>
+                 </div>
+
+                 <div class="field">
+                     <div class="control">
+                         <input type="text" class="input is-primary auth" name="cod" placeholder="Código" v-model="usuario.codigo">
+                     </div>
+                 </div>
+
+                 <div class="field">
+                     <div class="control">
+                         <input type="text" class="input is-primary auth" name="cor" placeholder="Correo" v-model="usuario.correo">
+                     </div>
+                 </div>
+
+                 <div class="field">
+                     <div class="control">
+                         <input type="text" class="input is-primary auth" name="cred" placeholder="Credencial" v-model="usuario.credencial">
+                     </div>
+                 </div>
+                 <button type="button" class="button is-large is-danger" v-on:click="registrarUsuario">Registrar</button>
+                 <button type="button" class="button is-large is-danger" v-on:click="limpiar">Limpiar</button>
+             </form>
+         </div>
+ </section>-->
+ <script src="js/vue.js" type="text/javascript"></script>
+ <script src="js/edukids.ja.js" type="text/javascript"></script>
+</body>
+</html>
