@@ -18,13 +18,4 @@ public abstract class Conexion {
         }
         return conex;
     }
-   /* public static void main(String[] args) {
-        Conexion con = new Conexion();
-        Connection c = con.getConnection();
-        try {
-            System.out.println(c.isValid(5000));
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
-    }*/
 }

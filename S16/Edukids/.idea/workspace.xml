@@ -6,7 +6,61 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0616a163-0e37-4926-9044-25297cc5502d" name="Default Changelist" comment="" />
+    <list default="true" id="0616a163-0e37-4926-9044-25297cc5502d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../S13/edukid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/.idea/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/matricula/controller/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/matricula/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/matricula/model/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/matricula/util/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/resources/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/test/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/test/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/target/classes/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/target/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/target/generated-sources/annotations/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/target/generated-sources/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/classes/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/classes/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/edukid.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/edukid.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/edukid/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/edukid/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/edukid/WEB-INF/classes/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/edukid/WEB-INF/classes/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/edukid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/edukid/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S14/edukid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../S14/edukid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S14/edukid/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S14/edukid/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S14/edukid/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../S14/edukid/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S14/edukid/src/main/webapp/js/edukid.ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../S14/edukid/src/main/webapp/js/edukid.ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S14/tienda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../S14/tienda/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Edukids.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/BusquedaLibroController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/BusquedaLibroController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioFAgregarController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioFObtenerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonUsuarioDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/Conexion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/SingletonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/SingletonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/impl/UsuarioServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/edukids.ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/edukids.ja.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -67,22 +121,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+            <state relative-caret-position="391">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
-                <element signature="n#style#0;n#button#1;n#form#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/impl/UsuarioServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51">
-              <caret line="18" column="101" selection-start-line="18" selection-start-column="101" selection-end-line="18" selection-end-column="101" />
+            <state relative-caret-position="153">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,8 +147,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/js/edukids.ja.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="68" column="14" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="14" />
+            <state relative-caret-position="408">
+              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -102,7 +156,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dto/BusquedaResponse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="119">
               <caret line="7" column="30" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -115,11 +169,59 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/BusquedaLibroController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+            <state relative-caret-position="374">
+              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/SingletonService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,8 +232,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dto/BusquedaRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="136">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding>
                 <element signature="e#161#162#0" expanded="true" />
                 <element signature="e#192#193#0" expanded="true" />
@@ -146,51 +248,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonUsuarioDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/SingletonService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f65684a5-0eb3-4f70-bcd9-bd2fa0477926/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -201,15 +258,14 @@
       </list>
     </option>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="dummy://restClient/response8.json" root0="SKIP_INSPECTION" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/model/Usuario.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/Conexion.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/util/Json.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/usuario/UsuarioDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/SingletonService.java" />
@@ -224,16 +280,19 @@
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/model/Autor.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/model/Libro.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dto/BusquedaResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/model/Genero.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioService.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/impl/UsuarioServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonUsuarioDao.java" />
         <option value="restClient/response0.txt" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f65684a5-0eb3-4f70-bcd9-bd2fa0477926/console.sql" />
-        <option value="$PROJECT_DIR$/src/main/webapp/js/edukids.ja.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/Conexion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonUsuarioDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/edukids.ja.js" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/BusquedaLibroController.java" />
       </list>
     </option>
@@ -275,16 +334,18 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="251" />
-    <option name="width" value="699" />
-    <option name="height" value="744" />
+    <option name="x" value="30" />
+    <option name="width" value="940" />
+    <option name="height" value="771" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -344,6 +405,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="edukids" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="libro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Edukids" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Edukids" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edukids" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
               <item name="usuario" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -390,17 +461,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="edukids" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="usuario" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Edukids" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Edukids" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukids" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -422,11 +482,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
@@ -655,11 +715,14 @@
       <workItem from="1562426806635" duration="4551000" />
       <workItem from="1562436147558" duration="1040000" />
       <workItem from="1562437207811" duration="2679000" />
+      <workItem from="1562442848885" duration="2248000" />
+      <workItem from="1562604158359" duration="362000" />
+      <workItem from="1562622912944" duration="2493000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41663000" />
+    <option name="totallyTimeSpent" value="46766000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -674,7 +737,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28517398" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2987897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -682,15 +745,14 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="REST Client" visible="true" weight="0.47954175" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31260228" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.0801964" />
       <window_info anchor="bottom" id="Database Console" order="8" weight="0.39443535" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
@@ -699,6 +761,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="14" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="REST Client" order="16" visible="true" weight="0.47954175" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -750,9 +813,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/util/Json.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/css/edukids.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -760,16 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -787,24 +837,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioFObtenerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/Conexion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -867,33 +903,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/usuario/UsuarioDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/usuario/UsuarioDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="66" column="21" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="66" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/model/Genero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -911,51 +920,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDaoImpl.java">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f65684a5-0eb3-4f70-bcd9-bd2fa0477926/console.sql" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="64" />
+        <state relative-caret-position="493">
+          <caret line="38" column="5" selection-start-line="30" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#433#440#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="65" />
+        <state relative-caret-position="204">
+          <caret line="32" column="78" selection-start-line="32" selection-start-column="78" selection-end-line="32" selection-end-column="78" />
+          <folding>
+            <element signature="n#style#0;n#button#1;n#form#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/usuario/UsuarioDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/usuario/UsuarioDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/util/Json.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/Conexion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/SingletonService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonUsuarioDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioFObtenerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="43" />
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -964,8 +1017,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dto/BusquedaRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="e#161#162#0" expanded="true" />
             <element signature="e#192#193#0" expanded="true" />
@@ -981,7 +1034,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dto/BusquedaResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="119">
           <caret line="7" column="30" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -993,44 +1046,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/edukids.ja.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="68" column="14" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/impl/UsuarioServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="18" column="101" selection-start-line="18" selection-start-column="101" selection-end-line="18" selection-end-column="101" />
+        <state relative-caret-position="153">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        <state relative-caret-position="391">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
-            <element signature="n#style#0;n#button#1;n#form#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f65684a5-0eb3-4f70-bcd9-bd2fa0477926/console.sql">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/edukids.ja.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="34" />
+        <state relative-caret-position="408">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/controller/BusquedaLibroController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state relative-caret-position="374">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

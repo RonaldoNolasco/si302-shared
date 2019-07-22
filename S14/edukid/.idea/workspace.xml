@@ -7,11 +7,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="377e5d65-18fa-49a2-bf62-e7026e164706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../S13/edukid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../S16/Edukids/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../S16/Edukids/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/.idea/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/matricula/controller/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/matricula/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/matricula/model/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/matricula/util/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/resources/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/test/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/test/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/target/classes/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/target/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/target/generated-sources/annotations/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/target/generated-sources/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/classes/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/classes/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/edukid.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/edukid.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/edukid/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/edukid/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/edukid/WEB-INF/classes/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/edukid/WEB-INF/classes/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/edukid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/edukid/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edukid.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/js/edukid.ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/edukid.ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tienda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tienda/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/Edukids.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/controller/BusquedaLibroController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/controller/BusquedaLibroController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioFAgregarController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioFObtenerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonUsuarioDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/Conexion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/SingletonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/SingletonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/impl/UsuarioServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/webapp/js/edukids.ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/webapp/js/edukids.ja.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,28 +104,19 @@
         <item name="postgres: database" type="162271b6:PgImplModel$Database" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            <state relative-caret-position="349">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,22 +125,73 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioFAgregarController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="18" column="47" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/usuario/UsuarioDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="69" />
+            <state relative-caret-position="323">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/SingletonUsuarioDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+        <entry file="das://49f2bdea-ebd3-4d7d-a96e-3b6f809c79c8/database/postgres/schema/public/table/usuario">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="b6622b32-f84f-4de7-8ca1-31090d331a60">
+              <filtering />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://49f2bdea-ebd3-4d7d-a96e-3b6f809c79c8/database/postgres/schema/public/table/cliente">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="b6622b32-f84f-4de7-8ca1-31090d331a60">
+              <filtering />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://49f2bdea-ebd3-4d7d-a96e-3b6f809c79c8/database/postgres/schema/public/table/clientef">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="b6622b32-f84f-4de7-8ca1-31090d331a60">
+              <filtering />
             </state>
           </provider>
         </entry>
@@ -110,53 +200,9 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/js/edukid.ja.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="103" selection-start-line="20" selection-start-column="103" selection-end-line="20" selection-end-column="103" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/util/Json.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/vue.js">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -209,13 +255,13 @@
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/util/DServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/model/Usuario.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index2.html" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/util/Json.java" />
         <option value="restClient/response9.txt" />
-        <option value="$PROJECT_DIR$/src/main/webapp/js/edukid.ja.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/edukid.ja.js" />
         <option value="$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
       </list>
     </option>
   </component>
@@ -250,9 +296,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="675" />
+    <option name="y" value="-8" />
+    <option name="width" value="699" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -260,6 +307,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,55 +356,6 @@
               <item name="edukid" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="usuario" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="usuario" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="usuario" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edukid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edukid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -364,14 +364,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -629,11 +627,13 @@
       <workItem from="1560634122075" duration="7833000" />
       <workItem from="1561232678274" duration="7164000" />
       <workItem from="1561241492709" duration="4368000" />
+      <workItem from="1562607024147" duration="4136000" />
+      <workItem from="1562767071103" duration="634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42568000" />
+    <option name="totallyTimeSpent" value="47338000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -648,7 +648,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2397882" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2473525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -679,7 +679,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.07857143" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.25510204" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.022692889" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
@@ -757,9 +757,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/edukid.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/edukid.iml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/model/UsuarioF.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -789,16 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/usuario/UsuarioDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/service/usuario/UsuarioService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -819,26 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioFAgregarController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/css/edukid.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -848,23 +816,6 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/49f2bdea-ebd3-4d7d-a96e-3b6f809c79c8/console.sql" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/util/DServlet.java" />
-    <entry file="das://49f2bdea-ebd3-4d7d-a96e-3b6f809c79c8/database/postgres/schema/public/table/cliente">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://49f2bdea-ebd3-4d7d-a96e-3b6f809c79c8/database/postgres/schema/public/table/usuario">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="19c00869-410a-4dc0-9b3e-530d05ff28e2">
-          <filtering />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/model/Usuario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -872,10 +823,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index2.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/SingletonUsuarioDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="103" selection-start-line="20" selection-start-column="103" selection-end-line="20" selection-end-column="103" />
+        <state relative-caret-position="204">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -892,6 +853,81 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/vue.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="103" selection-start-line="20" selection-start-column="103" selection-end-line="20" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioFAgregarController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/usuario/UsuarioDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://49f2bdea-ebd3-4d7d-a96e-3b6f809c79c8/database/postgres/schema/public/table/usuario">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="b6622b32-f84f-4de7-8ca1-31090d331a60">
+          <filtering />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://49f2bdea-ebd3-4d7d-a96e-3b6f809c79c8/database/postgres/schema/public/table/cliente">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="b6622b32-f84f-4de7-8ca1-31090d331a60">
+          <filtering />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://49f2bdea-ebd3-4d7d-a96e-3b6f809c79c8/database/postgres/schema/public/table/clientef">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="b6622b32-f84f-4de7-8ca1-31090d331a60">
+          <filtering />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/usuario/UsuarioDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -905,48 +941,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/edukid.ja.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" />
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/dao/SingletonUsuarioDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>

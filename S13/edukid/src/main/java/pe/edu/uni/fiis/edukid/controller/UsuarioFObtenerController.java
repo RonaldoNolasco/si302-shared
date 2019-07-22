@@ -14,10 +14,8 @@ import java.util.List;
 
 @WebServlet(name = "UsuarioFObtenerController",urlPatterns = {"/obtener-cliente"})
 public class UsuarioFObtenerController extends HttpServlet {
-
     public void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         List<UsuarioF> lista = SingletonService.getUsuarioService().obtenerUsuariosF();
-
         PrintWriter ps =  resp.getWriter();
         ps.write("<table>");
         for (int i = 0; i < lista.size(); i++) {

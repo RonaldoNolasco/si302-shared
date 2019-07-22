@@ -16,7 +16,6 @@ import java.io.IOException;
 
 @WebServlet(name = "UsuarioController",urlPatterns = {"/registro-usuario"})
 public class UsuarioController extends HttpServlet{
-
     public void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
         String codigo=req.getParameter("cod");
@@ -28,7 +27,6 @@ public class UsuarioController extends HttpServlet{
         SingletonService.getUsuarioService().agregarUsuario(usur1);
         resp.getWriter().write("Se guardo el usuario correctamente");
     }
-
     public void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
         String data = Json.getJson(req);
@@ -37,7 +35,5 @@ public class UsuarioController extends HttpServlet{
 
         usuario = SingletonService.getUsuarioService().agregarUsuario(usuario);
         Json.envioJson(usuario,resp);
-    }
-    public static void main(String[] args) {
     }
 }

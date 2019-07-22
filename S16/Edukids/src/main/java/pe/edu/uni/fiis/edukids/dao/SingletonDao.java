@@ -5,7 +5,7 @@ import pe.edu.uni.fiis.edukids.dao.libro.LibroDaoImpl;
 import pe.edu.uni.fiis.edukids.dao.usuario.UsuarioDao;
 import pe.edu.uni.fiis.edukids.dao.usuario.UsuarioDaoImpl;
 
-public abstract class SingletonUsuarioDao {
+public abstract class SingletonDao {
     private static LibroDao libroDao = null;
     public static LibroDao getLibroDao(){
         if(libroDao == null){

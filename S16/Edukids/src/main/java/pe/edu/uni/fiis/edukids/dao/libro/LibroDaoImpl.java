@@ -1,9 +1,7 @@
 package pe.edu.uni.fiis.edukids.dao.libro;
-
 import pe.edu.uni.fiis.edukids.model.Autor;
 import pe.edu.uni.fiis.edukids.model.Genero;
 import pe.edu.uni.fiis.edukids.model.Libro;
-
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -17,7 +15,6 @@ public class LibroDaoImpl implements LibroDao {
         try {
             StringBuffer sql = new StringBuffer();
             sql.append("select isbn,titulo,cod_autor,cod_genero from libro");
-
             Statement sentencia = b.createStatement();
             ResultSet rs = sentencia.executeQuery(sql.toString());
             while (rs.next()){
@@ -30,7 +27,6 @@ public class LibroDaoImpl implements LibroDao {
                 u.getGenero().setCoGenero(rs.getInt("cod_genero"));
                 lista.add(u);
             }
-
         } catch (SQLException e) {
             e.printStackTrace();
         }

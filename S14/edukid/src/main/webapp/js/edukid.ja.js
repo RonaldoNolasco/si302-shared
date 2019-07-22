@@ -28,8 +28,6 @@ var app = new Vue({
             return (this.pagina == pagina);
         },
         registrarUsuario:function(){
-
-
             fetch('registro-usuario', {
                 method: 'POST',
                 body: JSON.stringify(this.usuario),

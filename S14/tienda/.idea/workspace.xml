@@ -7,7 +7,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="102cd0c4-f791-4a39-bade-265b611bb04a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tienda.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../S13/edukid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../S16/Edukids/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../S16/Edukids/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/.idea/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/matricula/controller/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/matricula/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/matricula/model/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/java/pe/edu/uni/fiis/matricula/util/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/main/resources/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/test/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/src/test/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/target/classes/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/target/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/target/generated-sources/annotations/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S02/matricula/target/generated-sources/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/.idea/dataSources/0470f3c4-bdbf-44ac-8d80-fb5d3e8bee39/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/classes/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/classes/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/edukid.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/edukid.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/edukid/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/edukid/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/edukid/WEB-INF/classes/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/edukid/WEB-INF/classes/pe/edu/uni/fiis/edukid/controller/UsuarioFObtenerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S13/edukid/target/edukid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../S13/edukid/target/edukid/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edukid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../edukid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edukid/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../edukid/src/main/java/pe/edu/uni/fiis/edukid/controller/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edukid/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../edukid/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edukid/src/main/webapp/js/edukid.ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/../edukid/src/main/webapp/js/edukid.ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/Edukids.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/controller/BusquedaLibroController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/controller/BusquedaLibroController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioFAgregarController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/controller/UsuarioFObtenerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonUsuarioDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/dao/SingletonDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/dao/libro/LibroDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/Conexion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/SingletonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/SingletonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/impl/UsuarioServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/java/pe/edu/uni/fiis/edukids/service/usuario/UsuarioServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S16/Edukids/src/main/webapp/js/edukids.ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../S16/Edukids/src/main/webapp/js/edukids.ja.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -76,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/venta/controller/PedidoController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="119">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,7 +152,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="das://4c6be89b-fb60-4885-945c-96a1cfe8b4cd/database/venta/schema/venta/table/pedido">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state projectRestartId="fa9805c7-332b-4882-a38b-2f232295ce89">
+            <state projectRestartId="a5b64fdd-6ee3-4922-9701-ca4f55a8fdfe">
               <filtering />
             </state>
           </provider>
@@ -108,14 +160,18 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/console.sql">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="103" selection-start-line="50" selection-start-column="103" selection-end-line="50" selection-end-column="103" />
+            <state relative-caret-position="529">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -123,8 +179,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/js/tienda.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+            <state relative-caret-position="697">
+              <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/vue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -216,11 +283,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="4" />
-    <option name="y" value="8" />
-    <option name="width" value="1027" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="675" />
+    <option name="y" value="-8" />
+    <option name="width" value="699" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -228,9 +295,69 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tienda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tienda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tienda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tienda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tienda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tienda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tienda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tienda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tienda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tienda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="venta" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tienda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tienda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="venta" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tienda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tienda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tienda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tienda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,16 +484,19 @@
       <updated>1561241226095</updated>
       <workItem from="1561241229525" duration="8850000" />
       <workItem from="1561260183407" duration="591000" />
+      <workItem from="1562608152522" duration="1836000" />
+      <workItem from="1562636483647" duration="657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9441000" />
+    <option name="totallyTimeSpent" value="11934000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25189108" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19894099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -396,7 +526,7 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.23524962" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.21860817" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
@@ -573,8 +703,8 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4c6be89b-fb60-4885-945c-96a1cfe8b4cd/console.sql" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pe/edu/uni/fiis/venta/controller/PedidoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -593,22 +723,24 @@
     </entry>
     <entry file="das://4c6be89b-fb60-4885-945c-96a1cfe8b4cd/database/venta/schema/venta/table/pedido">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="fa9805c7-332b-4882-a38b-2f232295ce89">
+        <state projectRestartId="a5b64fdd-6ee3-4922-9701-ca4f55a8fdfe">
           <filtering />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="103" selection-start-line="50" selection-start-column="103" selection-end-line="50" selection-end-column="103" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/tienda.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        <state relative-caret-position="697">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -635,8 +767,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
